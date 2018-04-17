@@ -1,0 +1,1 @@
+ Es una buena idea que los nombres de las variables usen el formato camelCase, como por ejemplo **variableEjemplo** en vez de **variableejemplo** o **variable_ejemplo**. Tener en cuenta que se distingue entre mayúsculas y minúsculas, por lo tanto `var digitalHouse;` no es la misma variable que `var digitalhouse;`

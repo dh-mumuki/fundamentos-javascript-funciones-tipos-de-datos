@@ -1,5 +1,5 @@
 ---
-name: Funciones y Tipos de Datos
+name: Variables y Tipos de Datos
 locale: es
 type: learning
 beta: false
@@ -29,3 +29,4 @@ order:
 - 12
 - 7
 - 3
+- 18

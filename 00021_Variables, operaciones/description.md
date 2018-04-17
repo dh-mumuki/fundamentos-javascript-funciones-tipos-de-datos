@@ -14,18 +14,16 @@ console.log(siguienteDni)
 
 ```javascript
 var nombre = "Digital";
-var espacio = " ";
 var apellido = "House";
-console.log(nombre + espacio + apellido) 
+console.log(nombre + " " + apellido) 
 // El resultado sería: "Digital House"
 ```
 ¿Y que pasa si sumo números con textos?
 
 ```javascript
 var calle = "Monroe";
-var espacio = " ";
 var numero = 860;
-console.log(calle + espacio + numero) 
+console.log(calle + " " + numero) 
 // El resultado sería: "Monroe 860"
 ```
 

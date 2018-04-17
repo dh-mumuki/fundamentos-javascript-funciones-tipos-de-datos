@@ -1,10 +1,10 @@
 describe("", function() {
-  it("Declarada y asignada la variable nombre", function() {
-    assert.notEqual(nombre, "undefined");
-    assert.ok(typeof nombre === "string");
+  it("Declarada y asignada la variable numeroA", function() {
+    assert.notEqual(numeroA, "undefined");
+    assert.ok(typeof numeroA === "number");
   });
-  it("Declarada y asignada la variable apellido", function() {
-    assert.notEqual(apellido, "undefined");
-    assert.ok(typeof apellido == "string");
+  it("Declarada y asignada la variable numeroB", function() {
+    assert.notEqual(numeroB, "undefined");
+    assert.ok(typeof numeroB == "number");
   });
 })

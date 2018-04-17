@@ -5,6 +5,6 @@ describe("", function() {
   });
   it("Declarada y asignada la variable apellido", function() {
     assert.notEqual(apellido, "undefined");
-    assert.ok(typeof apellido == "number");
+    assert.ok(typeof apellido == "string");
   });
 })

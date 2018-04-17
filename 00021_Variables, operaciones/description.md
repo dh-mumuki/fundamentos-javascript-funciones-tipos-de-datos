@@ -27,4 +27,4 @@ console.log(calle + " " + numero)
 // El resultado sería: "Monroe 860"
 ```
 
-> Veamos si se entiende: **Declará y asigná** dos variables, una con tu `nombre` y la otra con tu `apellido`, y luego en la consola mostrá todo junto. Ejemplo: “Elon Musk”. Tené en cuenta el espacio!
+> Veamos si se entiende: **Declará y asigná** dos variables, una con tu `nombre` y la otra con tu `apellido`, y luego en la consola usando estas variables mostrá todo junto. Ejemplo: “Elon Musk”. Tené en cuenta el espacio!

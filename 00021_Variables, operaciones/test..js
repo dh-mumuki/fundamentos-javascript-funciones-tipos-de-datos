@@ -7,4 +7,8 @@ describe("", function() {
     assert.notEqual(numeroB, "undefined");
     assert.ok(typeof numeroB == "number");
   });
+  it("Declarada y asignada la variable resultado", function() {
+    assert.notEqual(resultado, "undefined");
+    assert.ok(typeof resultado == "number");
+  });
 })

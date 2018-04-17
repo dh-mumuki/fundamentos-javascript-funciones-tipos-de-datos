@@ -11,4 +11,4 @@ console.log(siguienteDni)
 // El resultado sería: 35546709
 ```
 
-> Veamos si se entiende: **Declará y asigná** dos variables, `numeroA` y `numeroB`, y luego en la consola usando estas variables mostrá su multiplicación.
+> Veamos si se entiende: **Declará y asigná** dos variables, `numeroA` y `numeroB`, y luego en otra variable `resultado` almacená el resultado de su multiplicación.

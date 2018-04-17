@@ -10,5 +10,6 @@ describe("", function() {
   it("Declarada y asignada la variable resultado", function() {
     assert.notEqual(resultado, "undefined");
     assert.ok(typeof resultado == "number");
+    assert.ok(resultado === (numeroA*numeroB));
   });
 })

@@ -8,4 +8,4 @@ console.log(calle + " " + numero)
 ```
 Como habrás visto, si sumo un número y un texto, este se convierte en parte del _string_.
 
-> Veamos si se entiende: **Declará y asigná** tres variables, una con tu `nombre`, otra con tu `apellido` y otra con tu `edad`. Luego en la variable `resultado` guardá  todo junto formando la siguiente oración: _“Juana Manso tiene 26 años”_. Respetá los espacios!
+> Veamos si se entiende: **Declará y asigná** tres variables, una con tu `nombre`, otra con tu `apellido` y otra con tu `edad`. Luego en la variable `resultado` forma la siguiente oración usando variables: _“En dos años Juana Manso tendrá XX años”_. Respetá los espacios!

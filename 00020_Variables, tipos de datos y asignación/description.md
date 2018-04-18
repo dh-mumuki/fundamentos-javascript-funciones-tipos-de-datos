@@ -8,7 +8,7 @@ var nombre = "Digital House";
 ```
 Como podrás ver los _textos_ no se almacenan de la misma forma que los números. Ésto es porque no son el mismo tipo de dato. En caso de querer almacenar **cadenas de caractéres** _(Strings)_ lo haremos entre comillas.
 
-Además de los números y los textos existen otros tipos de datos, entre ellos uno que sirve para almacenar si algo es **verdadero o falso** _(true/false)_. Este tipo de dato se llama _Booleano_. Por ejemplo:
+Además de los números y los textos existen otros tipos de datos, entre ellos uno que sirve para almacenar valores de verdad, es decir, si algo es **verdadero o falso** _(true/false)_. Este tipo de dato se llama _Booleano_. Por ejemplo:
 
 ```javascript
 var estaLloviendo = false;

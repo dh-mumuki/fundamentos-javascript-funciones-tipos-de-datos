@@ -1,7 +1,7 @@
 Como acabamos de ver, en JavaScript existen al menos números, strings y booleanos.
 
 ¿Y para qué sirve almacenar datos en variables?
-Bueno, en principio lo que podemos hacer con estos datos es realizar operaciones. 
+Bueno, en principio lo que podemos hacer con estos datos es realizar operaciones. Vamos a empezar utilizando los operadores básicos matemáticos `+`, `-`, `/` y `*`.
 Por ejemplo:
 
 ```javascript

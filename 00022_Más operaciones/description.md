@@ -1,9 +1,9 @@
 ¿Y que pasa si sumo textos?
 
 ```javascript
-var nombre = "Digital";
-var apellido = "House";
-console.log(nombre + " " + apellido) 
-// El resultado sería: "Digital House"
+var nombre = "Messi";
+var nacionalidad = "Argentino";
+console.log(nombre + " es " + nacionalidad) 
+// El resultado sería: "Messi es Argentino"
 ```
 > Veamos si se entiende: **Declará y asigná** dos variables, una con tu `nombre` y la otra con tu `apellido`, y luego en la variable `nombreCompleto` guardá todo junto. Ej.: “Elon Musk”. PD: No te olvides del espacio!

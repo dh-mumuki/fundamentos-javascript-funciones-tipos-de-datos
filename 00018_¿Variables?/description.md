@@ -1,4 +1,5 @@
 </body>
+<div style="text-align:center;"> 
 
 <p>Te invitamos a ver el siguiente video que te contará que son las variables.</p>
 

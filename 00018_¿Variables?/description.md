@@ -3,7 +3,7 @@
 
 <p>Te invitamos a ver el siguiente video que te contará que son las variables.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3FoevpwExow&ref=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3FoevpwExow?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 </div>
 <body>

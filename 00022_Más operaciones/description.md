@@ -1,5 +1,5 @@
 ¿Y que pasa si sumo textos?
-En éste caso el simbolo + nos va a ayudar a concatenar, es decir, juntar nuestras cadenas de texto.
+En éste caso el simbolo `+` nos va a ayudar a concatenar, es decir, juntar nuestras cadenas de texto.
 
 ¡OJO, NO TE OLVIDES DE LOS ESPACIOS!    
 

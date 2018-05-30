@@ -14,4 +14,11 @@ Además de los números y los textos existen otros tipos de datos, entre ellos u
 var estaLloviendo = false;
 ```
 
+Como vemos en los ejemplos, a las variables podemos asignarle un valor al momento de declararlas.
+También tengamos en cuenta que las variables pueden cambiar el valor a lo largo del programa. ¿Cómo? Fácil! Llamándola por su nombre le asignamos el nuevo valor.
+
+```javascript
+estaLloviendo = true;
+```
+
 > Veamos si se entiende: **Declará y asigná** los valores que correspondan a tres variables, una con el nombre `apellido`, otra con el nombre `numeroDeMes` y otra con el nombre `haceFrio`.

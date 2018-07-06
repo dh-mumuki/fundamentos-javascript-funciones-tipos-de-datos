@@ -1,4 +1,4 @@
-¿Y que pasa si sumo textos?
+¿Y que pasa si quiero sumar textos? :hushed:
 En éste caso el simbolo `+` nos va a ayudar a concatenar, es decir, juntar nuestras cadenas de texto.
 
 ¡OJO, NO TE OLVIDES DE LOS ESPACIOS!    

@@ -1,1 +1,1 @@
-En este procedimiento puede que necesites crear un lugar donde almacenar información.
+En este procedimiento puede que necesites crear un lugar adicional en donde almacenar información.

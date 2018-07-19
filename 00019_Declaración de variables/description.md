@@ -1,8 +1,8 @@
-Una variable es una manera de almacenar valores. Lo primero que debemos hacer es _declarar_ la variable, o sea, crear esa caja donde vamos a guardar valores.
-Las variables deben ser _declaradas_ mediante la palabra `var` la primera vez que la utilizás. Por ejemplo:
+Una variable es una manera de almacenar valores. Si queremos utilizar una variable lo primero que debemos hacer es declararla, o sea, crear esa “cajita” donde vamos a guardar valores. 
+En JavaScript, las variables se declaran utilizando la palabra var seguida del nombre con la que la identificaremos. Por ejemplo:
 
 ```javascript
 var nombre;
 ```
 
-> Veamos si se entiende: Declará dos variables, una con el nombre `edad` y la otra con el nombre `apellido`
+> Declará dos variables, una con el nombre edad y la otra con el nombre apellido

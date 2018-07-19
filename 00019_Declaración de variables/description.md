@@ -10,4 +10,4 @@ Por ejemplo:
 var nombre
 ```
 
-> Para pasar al próximo ejercicio, declará dos variables, una con el nombre edad y la otra con el nombre apellido. Luego, presioná Enviar Solución.
+> Para pasar al próximo ejercicio, declará dos variables, una con el nombre edad y la otra con el nombre apellido. Luego, presioná Enviar.

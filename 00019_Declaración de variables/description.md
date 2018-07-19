@@ -7,7 +7,7 @@ En JavaScript, las variables se declaran utilizando la palabra var seguida del n
 Por ejemplo:
 
 ```javascript
-var nombre;
+var nombre
 ```
 
-> Declará dos variables, una con el nombre edad y la otra con el nombre apellido
+> Para pasar al próximo ejercicio, declará dos variables, una con el nombre edad y la otra con el nombre apellido. Luego, presioná Enviar Solución.

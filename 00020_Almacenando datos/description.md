@@ -7,6 +7,6 @@ En programación, almacenar un valor en una variable se denomina “asignar”.
 Por ejemplo:
 
 ```javascript
-var edad = 21
-var peso = 75
+var meses = 12
+var cantidadDeAlumnos = 30
 ``` 

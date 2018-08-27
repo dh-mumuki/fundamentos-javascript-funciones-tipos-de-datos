@@ -16,3 +16,5 @@ Para generar un String, simplemente le puedo asignar el texto a una variable; po
 var miPlaneta = "Tierra";
 console.log(miPlaneta) // Esto imprimirá por pantalla "Tierra"
 ```
+
+> Para pasar al próximo ejercicio, declará una nueva variable y asignale el texto "Hola Mundo". Finalmente imprimi el valor de la variable por pantalla usando console.log.

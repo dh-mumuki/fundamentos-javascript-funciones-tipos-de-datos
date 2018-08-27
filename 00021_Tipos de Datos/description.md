@@ -3,7 +3,8 @@ Aparte de los tipos de datos numéricos existen otros como:
 
 * String
 
-A los tipo de datos String se los conoce como cadenas de texto, y nos van a permitir representar justamente eso, letras, palabras, texto.
+A los tipo de datos **String** se los conoce como cadenas de texto, y nos van a permitir representar justamente eso, letras, palabras, texto.
+
 Para generar un String, simplemente al texto que quiero representar lo envuelvo con doble comillas. 
 
 Por ejemplo:

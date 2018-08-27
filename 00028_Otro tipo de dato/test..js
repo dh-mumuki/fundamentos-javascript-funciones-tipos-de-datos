@@ -1,5 +1,6 @@
 describe("Descripción del grupo", function() {
-  it("Descripción del ejemplo", function() {
-    assert(true)
+  it("Declarada y asignada la variable edad", function() {
+    assert.notEqual(saludo, "undefined");
+    assert.ok(saludo === "Hola Mundo");
   })
 })

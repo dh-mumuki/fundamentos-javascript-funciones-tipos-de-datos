@@ -9,4 +9,4 @@ console.log(ganador);
 ```
 Como habrás notado, llamando a la variable y _reasignandole_ un valor puedo cambiar su contenido.
 
-> Veamos si se entiende: Hacé que la variable `numeroA` almacene el valor de la variable `numeroB` y viceversa.
+> Veamos si se entiende: Definí la variable `numeroA` con un valor de `30`, y definí la variable `numeroB` con un valor de `45`. A continuación, hacé que la variable `numeroA` almacene el valor de la variable `numeroB` y viceversa.

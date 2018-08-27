@@ -17,4 +17,4 @@ var miPlaneta = "Tierra";
 console.log(miPlaneta) // Esto imprimirá por pantalla "Tierra"
 ```
 
-> Para pasar al próximo ejercicio, declará la variable 'saludo' y asignale el texto "Hola Mundo". Finalmente imprimi el valor de la variable por pantalla usando console.log.
+> Para pasar al próximo ejercicio, declará la variable `saludo` y asignale el texto "Hola Mundo". Finalmente imprimi el valor de la variable por pantalla usando `console.log`.

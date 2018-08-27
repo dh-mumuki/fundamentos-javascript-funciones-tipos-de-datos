@@ -9,10 +9,10 @@ describe("Descripción del grupo", function() {
   });
     it("Declarada y asignada la variable esMenor", function() {
     assert.notEqual(esMenor, "undefined");
-    assert.ok(esMenor === unNumeroChico < unNumeroGrande));
+    assert.ok(esMenor === unNumeroChico < unNumeroGrande);
   });
     it("Declarada y asignada la variable esMayor", function() {
     assert.notEqual(esMayor, "undefined");
-    assert.ok(esMayor === unNumeroChico > unNumeroGrande));
+    assert.ok(esMayor === unNumeroChico > unNumeroGrande);
   });
 })

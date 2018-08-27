@@ -10,7 +10,7 @@ Para definir un **String** es necesario que el texto en cuestion este entre comi
 * **"Mi nombre es Juan."** 
 * **"125 + 125 = 250!"** 
 
-Por ejemplo:
+Para generar un String, simplemente le puedo asignar el texto a una variable; por ejemplo:
 
 ```javascript
 var miPlaneta = "Tierra";

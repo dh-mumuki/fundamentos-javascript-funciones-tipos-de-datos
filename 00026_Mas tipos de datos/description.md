@@ -17,3 +17,5 @@ Por ejemplo:
 var valorDeVerdad = true;
 console.log(valor) // Esto imprimirá por pantalla "true"
 ```
+
+> Para continuar, definí una variable `meGustaElHelado` y asignale un valor de verdad. Luego imprimi por pantalla el valor de la variable.

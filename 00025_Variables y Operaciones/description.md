@@ -1,6 +1,6 @@
-Vimos como declarar y asignar un valor a una variable, y probablemente ahora te preguntes ¿Y para qué sirve almacenar datos en variables?.
+Vimos como declarar una variable y asignarle un valor, y probablemente ahora te preguntes ¿Y para qué sirve almacenar datos en variables?.
 
-Las variables nos permiten reutilizar el dato guardado en la misma con solo invocar su nombre.
+Las variables nos permiten reutilizar el dato asignado en la misma con solo invocar su nombre.
 
 ```javascript
 var unNumero = 124;

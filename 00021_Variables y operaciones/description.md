@@ -1,4 +1,4 @@
-Como acabamos de ver, en JavaScript existen podemos almacenar en variables datos de tipo numérico, de tipo texto (Strings) y de tipo booleano.
+Como acabamos de ver, en JavaScript podemos almacenar en variables datos de tipo numérico, de tipo texto (Strings) y de tipo booleano.
 
 ¿Y para qué sirve almacenar datos en variables?
 Pues podemos reutilizar el dato guardado en la variable con solo invocar el nombre de la misma.

@@ -16,7 +16,7 @@ Por ejemplo:
 var unNumero = 124;
 var siguienteNumero = unNumero + 1;
 console.log(siguienteNumero) 
-// Se imprimira por pantall el valor que tiene asignado siguienteNumero que será 125.
+// Se imprimira por pantalla el valor que tiene asignado siguienteNumero que será 125.
 ```
 
 > Veamos si se entiende: **Declará y asigná** dos variables, `numeroA` y `numeroB`, y luego en las variables `resultadoSuma`, `resultadoResta`, `resultadoMultiplicacion` y `resultadoDivision` almacená el resultado que corresponda utilizando variables.

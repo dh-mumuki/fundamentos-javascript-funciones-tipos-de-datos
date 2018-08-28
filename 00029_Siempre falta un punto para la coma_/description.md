@@ -17,5 +17,5 @@ var meses = 12;
 var cantidadDeAlumnos = 30;
 ``` 
 
-A partir de los próximos ejercicios vamos a estar utilizando el ";".
+A partir de los próximos ejercicios vamos a estar utilizando el ";" como en el ejemplo anterior.
  

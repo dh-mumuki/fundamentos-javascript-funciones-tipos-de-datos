@@ -4,7 +4,7 @@ Las variables nos permiten reutilizar el dato asignado en la misma con solo invo
 
 ```javascript
 var unNumero = 124;
-console.log(unNumero) 
+console.log(unNumero); 
 // Podemos usar console.log para imprimir el valor que tiene asignado unNumero. Su resultado será 124.
 ```
 
@@ -15,7 +15,7 @@ Por ejemplo:
 ```javascript
 var unNumero = 124;
 var siguienteNumero = unNumero + 1;
-console.log(siguienteNumero) 
+console.log(siguienteNumero); 
 // Se imprimira por pantalla el valor que tiene asignado siguienteNumero que será 125.
 ```
 

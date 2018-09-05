@@ -10,6 +10,6 @@ describe("", function() {
   it("Declarada y asignada la variable resultado", function() {
     assert.notEqual(resultado, "undefined");
     assert.ok(typeof resultado === "string");
-    assert.equal(resultado,"En dos años " + nombre + " " + apellido + " tendrá " + (edad + 2) + " años")
+    assert.equal(resultado,"Pasado el tiempo, " + nombre + " " + apellido + " va a tener " + (edad + 2))
   }); 
 })

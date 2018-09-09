@@ -2,10 +2,10 @@ Las variables ademas de almacenar información, y como bien dice su nombre, pued
 Por ejemplo:
 
 ```javascript
-var ganador = "Coria";
-ganador = "Del Potro";
+var ganador = "Gustavo Kuerten";
+ganador = "Federer";
 console.log(ganador);
-// El resultado sería: "Del Potro"
+// El resultado sería: "Federer"
 ```
 Como habrás notado, llamando a la variable y _reasignandole_ un valor puedo cambiar su contenido.
 

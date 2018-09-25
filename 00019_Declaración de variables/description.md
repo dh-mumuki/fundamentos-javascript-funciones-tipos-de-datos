@@ -7,7 +7,7 @@ En JavaScript, las variables se declaran utilizando la palabra `var` seguida del
 Por ejemplo:
 
 ```javascript
-var precio
+var precio;
 ```
 
 > Para pasar al próximo ejercicio, declará dos variables una con el nombre edad y la otra con el nombre peso. Luego, presioná Enviar.

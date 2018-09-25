@@ -10,7 +10,7 @@ var meses = 12
 var cantidadDeAlumnos = 30
 ``` 
 
-También podria haber sido escrito de la siguiente manera:
+También podría haber sido escrito de la siguiente manera:
 
 ```javascript
 var meses = 12;
